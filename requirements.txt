@@ -1,0 +1,10 @@
+# requirements.txt
+langchain
+langchain-openai
+streamlit
+pandas
+plotly
+duckdb
+python-dotenv
+openpyxl
+pydantic
